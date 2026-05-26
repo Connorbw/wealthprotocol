@@ -1,7 +1,7 @@
 {
   "name": "wealthprotocol",
-  "description": "Audit any project through Naval Ravikant's wealth lenses. Run /wealthprotocol in a project directory to get a keep/pivot/kill verdict grounded in specific knowledge, leverage, productization, and equity.",
-  "version": "0.1.0",
+  "description": "Audit any project (idea, pre-revenue codebase, or live business) through Naval Ravikant's wealth lenses. Performs real market research, anchors scoring to named comparables, requires evidence citations, and produces a keep/pivot/kill verdict.",
+  "version": "0.2.0",
   "author": {
     "name": "Connor Williamson",
     "url": "https://github.com/Connorbw"
