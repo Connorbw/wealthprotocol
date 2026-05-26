@@ -1,0 +1,13 @@
+{
+  "name": "wealthprotocol",
+  "description": "Audit any project through Naval Ravikant's wealth lenses. Run /wealthprotocol in a project directory to get a keep/pivot/kill verdict grounded in specific knowledge, leverage, productization, and equity.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Connor Williamson",
+    "url": "https://github.com/Connorbw"
+  },
+  "homepage": "https://github.com/Connorbw/wealthprotocol",
+  "repository": "https://github.com/Connorbw/wealthprotocol",
+  "license": "MIT",
+  "keywords": ["audit", "strategy", "naval", "leverage", "indie-hacker", "solopreneur"]
+}

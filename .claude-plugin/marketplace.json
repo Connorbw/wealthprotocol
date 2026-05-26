@@ -1,0 +1,14 @@
+{
+  "name": "wealthprotocol",
+  "owner": {
+    "name": "Connor Williamson",
+    "url": "https://github.com/Connorbw"
+  },
+  "plugins": [
+    {
+      "name": "wealthprotocol",
+      "source": ".",
+      "description": "Naval-philosophy project audit for Claude Code."
+    }
+  ]
+}

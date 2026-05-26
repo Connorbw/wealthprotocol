@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Local Claude state
+.claude/
+
+# Local audit outputs (these belong in user projects, not the plugin repo)
+.wealthprotocol/
